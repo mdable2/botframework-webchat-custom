@@ -45,7 +45,7 @@
     "memoize-one": "5.1.1",
     "microsoft-cognitiveservices-speech-sdk": "1.10.1",
     "prop-types": "15.7.2",
-    "sanitize-html": "1.20.0",
+    "sanitize-html": "2.3.2",
     "url-search-params-polyfill": "8.0.0",
     "web-speech-cognitive-services": "7.0.0",
     "whatwg-fetch": "3.0.0"
